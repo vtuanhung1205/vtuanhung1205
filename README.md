@@ -1,20 +1,34 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'mVõ Tuấn Hùng</h1>
+<h1 align="center">Võ Tuấn Hùng</h1>
 <h3 align="center">Full-Stack Web Developer • Automation Engineer</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/tuan-hung-vo-5822b1374">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:votuanhung12052006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Information Technology Student based in Ho Chi Minh City  
-- 👤 Independent developer, open to collaboration on meaningful projects  
-- 💻 Specialized in **Full-Stack Web Development**
-- 🧠 Continuously improving skills in **React, Node.js, .NET, and Python**
-- 🎯 Career goal: Build scalable real-world systems and become a professional software engineer
+Information Technology student based in Ho Chi Minh City with a strong focus on building production-ready full-stack web applications and automation systems. Actively seeking collaboration on meaningful technical projects and continuously improving both system design and engineering skills.
+
+Key focus areas:
+- Full-Stack Web Development  
+- Automation & System Integration  
+- Scalable Application Architecture  
+- Continuous Learning & Professional Growth  
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
@@ -36,38 +50,48 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔥 **SafeSwap** | Secure token swapping platform with real-time transactions | Web3, React, Node.js, WebSocket |
-| 🚀 **RugPull Detection** | Scam token detection system using smart-contract analysis | Web3, React, Node.js |
-| 📊 **Personal Portfolio** | Professional developer portfolio website | React, Tailwind CSS |
+| **SafeSwap** | Secure token swapping platform with real-time transactions | Web3, React, Node.js, WebSocket |
+| **RugPull Detection** | Scam token detection system using smart-contract analysis | Web3, React, Node.js |
+| **Personal Portfolio** | Professional developer portfolio website | React, Tailwind CSS |
 
 ---
 
-## 📈 GitHub Activity
+## Professional Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vtuanhung1205&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtuanhung1205&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced React Architecture
-- System Design Fundamentals
-- DevOps, Docker & CI/CD Pipelines
+- Designed and deployed multiple full-stack web platforms for real-world use cases  
+- Implemented secure authentication systems, APIs, and real-time communication  
+- Built scalable frontend–backend architectures with clean code practices  
+- Strong problem-solving mindset with a product-oriented approach  
 
 ---
 
-## 🤝 Collaboration
+## Core Competencies
 
-- Open to freelance work, startup ideas, and technical partnerships  
-- Interested in building long-term, production-ready software products
+- Full-Stack Web Application Development  
+- REST API Design & System Integration  
+- Automation Engineering  
+- Authentication & Role-Based Access Control  
+- Performance Optimization & Debugging  
+- UI/UX Implementation from Design Systems  
 
 ---
 
-⭐ **If you find my projects valuable, your support with a star is greatly appreciated.**
+## Current Focus
+
+- Advanced React Architecture  
+- System Design Fundamentals  
+- DevOps, Docker & CI/CD Pipelines  
+
+---
+
+## Collaboration
+
+Open to freelance opportunities, startup ideas, and long-term technical partnerships. Interested in building sustainable, production-grade software products with clear business value.
+
+---
+
+If you find my projects valuable, your support with a star is greatly appreciated.
