@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Võ Tuấn Hùng</h1>
+<h1 align="center">Hi, I'm Võ Tuấn Hùng (Hans)</h1>
 <h3 align="center">Full-Stack Web Developer • Automation Engineer</h3>
 
 <p align="center">
